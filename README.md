@@ -23,6 +23,7 @@
   * [`main.cpp`](https://github.com/1Needle/Bullethell-Game-Ver2.0/blob/main/source%20codes/main.cpp)和[`Function.cpp`](https://github.com/1Needle/Bullethell-Game-Ver2.0/blob/main/source%20codes/Function.cpp)也存放於此。
 
 ### 遊戲介紹
+* [`遊戲簡介/實際遊玩影片`](https://youtu.be/ciz_2oizq9w)(介紹約1:30，實際遊玩過程約7:30)
 * 本遊戲並未參考任何遊戲，僅以手邊擁有的素材決定製作方向。
 * 玩家角色有三個階段，可透過撿取能量來升級。
 * 共有8種敵人，每種敵人擁有不同的數值、攻擊模式、移動模式。
